@@ -1,0 +1,97 @@
+C:\Users\Siddharth\Desktop\USB Backup\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.exe.config
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.exe.config
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.exe
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.pdb
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.frmQuiz.resources
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.exe
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.pdb
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.exe.config
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.exe
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.pdb
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.exe
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.pdb
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.frmQuiz.resources
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.exe.config
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.exe
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.pdb
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.exe
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.pdb
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.frmQuiz.resources
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Interop.WMPLib.dll
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\AxInterop.WMPLib.dll
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Interop.WMPLib.dll
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\AxInterop.WMPLib.dll
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csproj.ResolveComReference.cache
+C:\Users\Siddharth\Desktop\QuizSat\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Siddharth\Desktop\QuizSat\Quiz\obj\Debug\Interop.WMPLib.dll
+C:\Users\Siddharth\Desktop\QuizSat\Quiz\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Siddharth\Desktop\QuizSat\Quiz\obj\Debug\Quiz.csproj.ResolveComReference.cache
+C:\Users\Siddharth\Desktop\QuizSat\Quiz\obj\Debug\Quiz.exe
+C:\Users\Siddharth\Desktop\QuizSat\Quiz\obj\Debug\Quiz.pdb
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\bin\Debug\Quiz.exe.config
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\obj\Debug\Interop.WMPLib.dll
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\obj\Debug\AxInterop.WMPLib.dll
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\obj\Debug\Quiz.csproj.ResolveComReference.cache
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\obj\Debug\Quiz.exe
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\obj\Debug\Quiz.pdb
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\bin\Debug\Quiz.exe
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\bin\Debug\Quiz.pdb
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\bin\Debug\Interop.WMPLib.dll
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\bin\Debug\AxInterop.WMPLib.dll
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\obj\Debug\Quiz.frmQuiz.resources
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+E:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\QuizSat\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Interop.WMPLib.dll
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\AxInterop.WMPLib.dll
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csproj.ResolveComReference.cache
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Interop.WMPLib.dll
+F:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\AxInterop.WMPLib.dll
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Interop.WMPLib.dll
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\AxInterop.WMPLib.dll
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csproj.ResolveComReference.cache
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Interop.WMPLib.dll
+G:\Grade 11\ICS3U1-01\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\AxInterop.WMPLib.dll
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.exe.config
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Interop.WMPLib.dll
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\AxInterop.WMPLib.dll
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csproj.ResolveComReference.cache
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.exe
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.pdb
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.exe.config
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Interop.WMPLib.dll
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\AxInterop.WMPLib.dll
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csproj.ResolveComReference.cache
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.exe
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.pdb
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.exe
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.pdb
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Interop.WMPLib.dll
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\AxInterop.WMPLib.dll
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.frmQuiz.resources
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+E:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+G:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.exe.config
+G:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Interop.WMPLib.dll
+G:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\AxInterop.WMPLib.dll
+G:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csproj.ResolveComReference.cache
+G:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.exe
+G:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.pdb
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.exe
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Quiz.pdb
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\Interop.WMPLib.dll
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\bin\Debug\AxInterop.WMPLib.dll
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.frmQuiz.resources
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+F:\Grade 11\Computer Science\Assignments\Programming\A2_Intermediate_Programming\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
